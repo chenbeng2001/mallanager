@@ -1,6 +1,6 @@
 # mallanager
 
-> 电商后台管理系统
+> 电商后台管理系统1.0
 
 ## Build Setup
 
